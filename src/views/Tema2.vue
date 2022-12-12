@@ -98,7 +98,7 @@
         .row 
           .col-lg-6(data-aos="fade-right")
 
-              a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+              a.anexo.mb-4.mb-lg-0(href="https://youtu.be/6Iitw5uajUE" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto
@@ -106,7 +106,7 @@
 
           .col-lg-6(data-aos="fade-left")
 
-              a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+              a.anexo.mb-4.mb-lg-0(href="https://youtu.be/dQxXkWUdb7s" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto

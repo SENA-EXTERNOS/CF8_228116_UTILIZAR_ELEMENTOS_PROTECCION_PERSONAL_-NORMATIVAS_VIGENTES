@@ -100,7 +100,7 @@
                     i.lista-ul__vineta
                     | Monitoreo de seguridad
                   
-                  a.boton.boton--b(href='/downloads/Anexo 2. Lineas de advertencia.pdf' target="_blank")
+                  a.boton.boton--b(:href="obtenerLink('/downloads/Anexo 2. Lineas de advertencia.pdf')" target="_blank")
                     span Realizar
                     i.fas.fa-puzzle-piece
 
