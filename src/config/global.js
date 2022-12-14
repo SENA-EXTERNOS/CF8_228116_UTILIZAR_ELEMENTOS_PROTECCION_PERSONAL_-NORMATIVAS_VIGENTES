@@ -192,7 +192,7 @@ export default {
     {
       termino: 'Arnés',
       significado:
-        'EPP utilizado en trabajo de altura, rescate que permite cuidar y proteger a la persona que realiza la labor.',
+        ' EPP utilizado en trabajo de altura, rescate que permite cuidar y proteger a la persona que realiza la labor.',
     },
     {
       termino: 'ANSI',
