@@ -215,7 +215,7 @@
                 p Si desea aprender más sobre arnés le invitamos a revisar el siguiente material. 3M (s.f.). Arneses anticaídas, seguridad para trabajo en alturas. 
                 
                 a.boton.boton--b(href="https://www.3m.com.es/3M/es_ES/trabajos-altura/arneses-anticaida/#rightharness" target="_blank")
-                  span Ver video
+                  span Ver material
                   i.fas.fa-puzzle-piece
     br  
     br  

@@ -107,18 +107,17 @@
                   img(src='@/assets/curso/temas/img-senal-precau-tema4.png', alt='Texto que describa la imagen').img-pestanas-tema4
                   //figcaption Leyenda de la imagen
               .col-md-6
-                //h4 Celebrate your failures 2
-                p Se debe demarcar cuando: 
+                h4 Señales de Precaución y Riesgo de Peligro
                 ul.lista-ul
                   li 
                     i.lista-ul__vineta
-                    | No se puede eliminar el riesgo.
+                    | Forma: triangular
                   li 
                     i.lista-ul__vineta
-                    | No se pueden implementar sistemas de protección. 
+                    | Color: amarillo
                   li 
                     i.lista-ul__vineta
-                    | Complemento para otro sistema de seguridad implementado. 
+                    | El color amarillo cubrirá por lo menos el 50% del área de la señal.
 
     br    
     br    
@@ -145,9 +144,9 @@
 
         .row 
           .col-lg-12
-            .titulo-sexto.color-acento-contenido.mb-3
-              h5 Tabla 1.
-              span <em>Medidas de demarcación según normativa</em>
+            .titulo-sexto.titulo-figuras.mb-3
+                h5 Tabla 1. 
+                span <em>Medidas de demarcación según normativa</em>  
             
             figure
                 img(src='@/assets/curso/temas/img-tabla-medid-demarcacion-tema4.png', alt='Texto que describa la imagen').img-tabla-medid-demarcacion-tema4

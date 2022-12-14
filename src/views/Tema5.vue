@@ -23,8 +23,8 @@
 
                 .col-md-6
                   figure
-                    img(src='@/assets/curso/temas/img1-slider-tema5.png', alt='Texto que describa la imagen')
-                  p Nota: https://obraconseguridad.files.wordpress.com/2015/03/20141110_102231.jpg
+                    img(src='@/assets/curso/temas/img1-slider-tema5.png', alt='Texto que describa la imagen').img-slider-tema5
+                  p.txt-notas-slider-tema5 Nota:https://obraconseguridad.files.wordpress.com/2015/03/20141110_102231.jpg
                     //figcaption Leyenda de la imagen
 
               .row.justify-content-center.align-items-center.my-lg-4
@@ -35,7 +35,7 @@
 
                 .col-md-6
                   figure
-                    img(src='@/assets/curso/temas/img2-slider-tema5.png', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/img2-slider-tema5.png', alt='Texto que describa la imagen').img-slider-tema5
                     //figcaption Leyenda de la imagen
 
               .row.justify-content-center.align-items-center.my-lg-4
@@ -46,8 +46,8 @@
 
                 .col-md-6
                   figure
-                    img(src='@/assets/curso/temas/img3-slider-tema5.png', alt='Texto que describa la imagen')
-                  p Nota: https://i.ytimg.com/vi/qJa5iy5sW_s/maxresdefault.jpg
+                    img(src='@/assets/curso/temas/img3-slider-tema5.png', alt='Texto que describa la imagen').img-slider-tema5
+                  p.txt-notas-slider-tema5 Nota:https://i.ytimg.com/vi/qJa5iy5sW_s/maxresdefault.jpg
                     //figcaption Leyenda de la imagen
 
     br             
@@ -101,7 +101,7 @@
                     | Monitoreo de seguridad
                   
                   a.boton.boton--b(:href="obtenerLink('/downloads/Anexo 2. Lineas de advertencia.pdf')" target="_blank")
-                    span Realizar
+                    span Descargar
                     i.fas.fa-puzzle-piece
 
     br

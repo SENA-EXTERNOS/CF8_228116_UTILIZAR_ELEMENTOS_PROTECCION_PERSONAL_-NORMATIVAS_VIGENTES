@@ -594,10 +594,11 @@
           
         .row 
           .col-lg-12
-          
               .titulo-sexto.color-secundario.mb-3
                 h5 Figura 2.
                 span <em>Factores clave a la hora de realizar un plan de prevención</em>
+          
+          
 
               figure
                 img(src='@/assets/curso/temas/img-factores-prevencion-tema1.png', alt='Texto que describa la imagen').img-factores-prevencion-tema1
