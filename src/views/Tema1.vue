@@ -424,7 +424,7 @@
           p.text-white Para conocer sobre dichos estándares consulte la Resolución 0312 de febrero de 2019, en el siguiente enlace del Ministerio del Trabajo. 
 
         .col-lg-2.boton-anexo-tema1
-            a.boton.boton--b(href="https://www.minsalud.gov.co/Ministerio/Institucional/Procesos%20y%20procedimientos/GTHS02.pdf" target="_blank")
+            a.boton.boton--b(href="https://www.mintrabajo.gov.co/documents/20147/59995826/Resolucion+0312-2019-+Estandares+minimos+del+Sistema+de+la+Seguridad+y+Salud.pdf" target="_blank")
               span Descargar
               i.fas.fa-puzzle-piece
     br
@@ -443,6 +443,8 @@
     br
 
     .row.container.justify-content-around.align-items-center
+
+      p A continuación se describe la prevención, evaluación y objetivos del sistema de riesgos laborales.
 
       .bg--img_03
           .row.justify-content-center.mb-4
@@ -641,9 +643,7 @@
 
             .tarjeta.tarj-pto-caliente-tema1.p-3(x="7%" y="80%" numero="1")
               .h5.mb-2 Identificación de la organización
-              p Identificación de la organización:
-                br
-                | Se debe enfocar en el conocimiento general de la organización, sedes, trabajadores, etc., todo enfocado en la prevención de riesgos laborales. 
+              p Se debe enfocar en el conocimiento general de la organización, sedes, trabajadores, etc., todo enfocado en la prevención de riesgos laborales. 
 
             .tarjeta.tarj-pto-caliente-tema1.p-3(x="28%" y="15%" numero="2")
               .h5.mb-2 Estructura organizacional
@@ -667,7 +667,7 @@
 
     .row.container.justify-content-around.align-items-center
         
-        h3 Elementos del plan de prevención
+        h3  EVALUACIÓN DE RIESGOS
         
         p La aplicación del plan de acción requiere de dos instrumentos fundamentales que son: la Evaluación de Riesgos Laborales y la Planificación de la Actividad Preventiva, ambos permitirán poner en marcha el plan de acción y garantizar su funcionamiento dentro de la organización. 
 

@@ -60,6 +60,8 @@
                   | Color: verde
                   br
                   | El color verde cubrirá por lo menos el 50% del área de la señal.
+                  br
+                  | Proporciona información que garantice la seguridad de las personas, indicando salidas de emergencia en caso de requerirse. 
             
         
 
@@ -119,6 +121,33 @@
                     i.lista-ul__vineta
                     | El color amarillo cubrirá por lo menos el 50% del área de la señal.
 
+    .row.container.justify-content-around.align-items-center
+
+        p Por seguridad, planificación, cuidado, almacenamiento y distribución de los espacios, máquinas, equipos, zonas de circulación, etc. deberán ser demarcados. 
+
+        .row.container
+            
+            .col-lg-6
+
+              figure
+                img(src='@/assets/curso/temas/img-esp-demarc-tema4.png', alt='Texto que describa la imagen').img-esp-demarc-tema4
+            
+            .col-lg-6
+              .cuadro-color-esp-demarc-tema4
+              p.texto-cuadro-color-esp-demarc-tema4 Se debe demarcar cuando:
+
+              ul.lista-ul.texto-cuadro-color-esp-demarc-tema4
+                li 
+                  i.lista-ul__vineta
+                  | No se puede eliminar el riesgo. 
+                li 
+                  i.lista-ul__vineta
+                  | No se pueden implementar sistemas de protección. 
+                li 
+                  i.lista-ul__vineta
+                  | Complemento para otro sistema de seguridad implementado.
+
+
     br    
     br    
     br    
@@ -136,10 +165,6 @@
                 |
                 p Todos los establecimientos de trabajo donde se lleven a cabo operaciones y/o procesos que integren aparatos, máquinas, equipos, ductos, tuberías etc. y demás instalaciones locativas necesarias para su funcionamiento” (Resolución 2400 de 1979) deberán “delimitar o demarcar las áreas de trabajo, zonas de almacenamiento, vías de circulación y salidas de emergencia, resguardos y zonas peligrosas de las máquinas e instalaciones de acuerdo a las disposiciones legales vigentes. (Resolución 1016 de 1989, Articulo 11, numeral 17)
   
-    br
-    br
-    br
-
     .row.container.justify-content-around.align-items-center
 
         .row 
@@ -176,7 +201,7 @@
                     | Zonas Peligrosas con color de fondo en avisos que indiquen precaución. 
                   li 
                     i.lista-ul__vineta
-                    | Equipos de construcción como bulldozers, tractores, etc., esquinas de lugares de almacenamiento, bordes expuestos y sin guardas, de plataformas, aberturas en el piso y muros, aditamentos suspendidos del techo o de los muros que sobresalgan del espacio normal de operación; pasamanos, barandas y partes superiores e inferiores de escaleras fijas peligrosas, bloques de poleas y diferencias, proyecciones, puertas bajas, vigas, tuberías que cruzan a bajo nivel en los sitios bajos, armazones bajos o puertas de levadores, grúas de taller y equipos utilizados para transporte y movilización de materiales como mulas (montacargas), remolques, carretillas de todo tipo, transporte de todo tipo, etc.; pilares, postes o columnas que puedan ser golpeados, demarcación de áreas de trabajo y almacenamiento (franjas de cinco centímetros de ancho), demarcación de áreas libres frente a equipos contra incendios (semicírculo de cincuenta centímetros de radio y franja de cinco centímetros de ancho).
+                    | Equipos de construcción como <i>bulldozers</i>, tractores, etc., esquinas de lugares de almacenamiento, bordes expuestos y sin guardas, de plataformas, aberturas en el piso y muros, aditamentos suspendidos del techo o de los muros que sobresalgan del espacio normal de operación; pasamanos, barandas y partes superiores e inferiores de escaleras fijas peligrosas, bloques de poleas y diferencias, proyecciones, puertas bajas, vigas, tuberías que cruzan a bajo nivel en los sitios bajos, armazones bajos o puertas de levadores, grúas de taller y equipos utilizados para transporte y movilización de materiales como mulas (montacargas), remolques, carretillas de todo tipo, transporte de todo tipo, etc.; pilares, postes o columnas que puedan ser golpeados, demarcación de áreas de trabajo y almacenamiento (franjas de cinco centímetros de ancho), demarcación de áreas libres frente a equipos contra incendios (semicírculo de cincuenta centímetros de radio y franja de cinco centímetros de ancho).
 
 
           

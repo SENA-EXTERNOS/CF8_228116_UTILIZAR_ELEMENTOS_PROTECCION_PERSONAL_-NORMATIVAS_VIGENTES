@@ -43,7 +43,29 @@
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
                     p Enlace web. Valora Prevención. (2019, noviembre 11). Correcta utilización de los sistemas anticaídas. YouTube.
+    br
+    br
 
+    .row.container.justify-content-around.align-items-center 
+
+        h3 Hoja de vida de los equipos
+
+        p Para la inspección del funcionamiento de los equipos anticaída se debe contar con la supervisión de un experto, quien desarrollará un archivo en que permitirá llevar la hoja de vida de los mismos, así, se tendrá la trazabilidad a las inspecciones que se les han realizado, mantenimientos y aprobaciones anuales. 
+        p Para ver un ejemplo de un formato de hoja de vida para los equipos de protección contra caídas, por favor, revise el siguiente vídeo. 
+
+
+        .row 
+          .col-lg-12(data-aos="fade-right")
+              a.anexo.mb-4.mb-lg-0(href="https://youtu.be/RqcHMYfhpoI" target="_blank")
+                .anexo__icono
+                  img(src="@/assets/template/icono-link.svg")
+                .anexo__texto
+                  p Frías., Edison. (2020, octubre 26). Hoja de Vida de los Equipos de Protección Contra Caída. YouTube 
+
+
+
+
+        
     br
     br
     br
@@ -69,8 +91,11 @@
     br
     br
     br
+    br
 
     .row.container.justify-content-around.align-items-center 
+
+        h3.tipos-de-arnes Tipos de arnés
 
         .row.fondo-tipos-arnes-tema2.p-4
             .col-lg-6
