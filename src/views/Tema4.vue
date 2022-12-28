@@ -400,6 +400,19 @@
                     img(src='@/assets/curso/temas/img2-slider-tema4.png', alt='Texto que describa la imagen')
                     //figcaption Leyenda de la imagen
 
+              
+              .row.justify-content-center.align-items-center.my-lg-4
+                
+                .col-md-6.mb-4.mb-md-0
+                  .txt-slider-tema4
+                    h4 Color: blanco
+                    p Tuberías que conduzcan refrigerantes y partes varias de los sistemas de refrigeración, tuberías de vacío y partes del sistema de vacío.
+
+                .col-md-6
+                  figure
+                    img(src='@/assets/curso/temas/img3-blanco-slider.tema4.png', alt='Texto que describa la imagen')
+                    //figcaption Leyenda de la imagen
+
               .row.justify-content-center.align-items-center.my-lg-4
                 
                 .col-md-6.mb-4.mb-md-0

@@ -303,7 +303,7 @@
               p Para aprender más sobre los tipos de EPP, lo invitamos a revisar el siguiente blog. 
               p Tipos de EPP (Equipos de Protección Personal). (2022, abril 18). Grupo Casa Lima. 
               
-              a.boton.boton--b(href="https://grupocasalima.com/blog/tipos-de-equipos-de-proteccion-personal-epp/" target="_blank")
+              a.boton.boton--b(href="https://grupocasalima.com/es-ec/blog/tipos-de-equipos-de-proteccion-personal-epp/" target="_blank")
                   span Descargar 
                   i.fas.fa-puzzle-piece
 
