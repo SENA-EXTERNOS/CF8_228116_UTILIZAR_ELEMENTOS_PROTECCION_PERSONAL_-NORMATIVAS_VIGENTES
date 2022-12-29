@@ -195,13 +195,14 @@
 
               .col-md-6.mb-4.mb-md-0
                 h4 Precaución, Zona de Peligro (amarillo)
+
                 ul.lista-ul
                   li 
                     i.lista-ul__vineta
                     | Zonas Peligrosas con color de fondo en avisos que indiquen precaución. 
                   li 
                     i.lista-ul__vineta
-                    | Equipos de construcción como <i>bulldozers</i>, tractores, etc., esquinas de lugares de almacenamiento, bordes expuestos y sin guardas, de plataformas, aberturas en el piso y muros, aditamentos suspendidos del techo o de los muros que sobresalgan del espacio normal de operación; pasamanos, barandas y partes superiores e inferiores de escaleras fijas peligrosas, bloques de poleas y diferencias, proyecciones, puertas bajas, vigas, tuberías que cruzan a bajo nivel en los sitios bajos, armazones bajos o puertas de levadores, grúas de taller y equipos utilizados para transporte y movilización de materiales como mulas (montacargas), remolques, carretillas de todo tipo, transporte de todo tipo, etc.; pilares, postes o columnas que puedan ser golpeados, demarcación de áreas de trabajo y almacenamiento (franjas de cinco centímetros de ancho), demarcación de áreas libres frente a equipos contra incendios (semicírculo de cincuenta centímetros de radio y franja de cinco centímetros de ancho).
+                    p Equipos de construcción como <em>bulldozers</em>, tractores, etc., esquinas de lugares de almacenamiento, bordes expuestos y sin guardas, de plataformas, aberturas en el piso y muros, aditamentos suspendidos del techo o de los muros que sobresalgan del espacio normal de operación; pasamanos, barandas y partes superiores e inferiores de escaleras fijas peligrosas, bloques de poleas y diferencias, proyecciones, puertas bajas, vigas, tuberías que cruzan a bajo nivel en los sitios bajos, armazones bajos o puertas de levadores, grúas de taller y equipos utilizados para transporte y movilización de materiales como mulas (montacargas), remolques, carretillas de todo tipo, transporte de todo tipo, etc.; pilares, postes o columnas que puedan ser golpeados, demarcación de áreas de trabajo y almacenamiento (franjas de cinco centímetros de ancho), demarcación de áreas libres frente a equipos contra incendios (semicírculo de cincuenta centímetros de radio y franja de cinco centímetros de ancho).
 
 
           
