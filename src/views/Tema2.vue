@@ -8,32 +8,32 @@
       h1 Seleccionar subsistemas de protección 
 
       
-    .row.tarjeta.tarjeta--blanca.p-2.p-md-3
+    .row.tarjeta.tarjeta--blanca.p-2.p-md-3.mb-5
         
-        p En el siguiente video, se mencionan las características que debe tener los EPP de sujeción, sistema anticaída, arnés anticaída, elementos de amarre, entre otros; al igual que se mencionan las diferencias entre los EPP y la dotación.
+        p En el siguiente video, se mencionan las características que debe tener los EPP de sujeción, sistema anticaída, arnés anticaída, elementos de amarre, entre otros; al igual que se mencionan las diferencias entre los EPP y la dotación:
 
         figure
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    br
+
     separador 
 
-    br
+
     
     .row.container.justify-content-around.align-items-center 
         
         h3 Dispositivos de protección
 
-        p Para conocer más sobre los dispositivos de protección, aprender a utilizar correctamente los sistemas anticaídas, almacenamiento y mantenimiento de los equipos, le invitamos a revisar los siguientes vídeos: 
+        p Para conocer más sobre los dispositivos de protección, aprender a utilizar correctamente los sistemas anticaídas, almacenamiento y mantenimiento de los equipos, lo invitamos a revisar los siguientes videos: 
 
-        .row 
+        .row.mb-5
           .col-lg-6(data-aos="fade-right")
               a.anexo.mb-4.mb-lg-0(href="https://youtu.be/6Iitw5uajUE" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto
-                  p Enlace web. Dispositivos de protección: trabajo en alturas. Prevención de riesgos en caídas a distinto nivel. (2019, febrero 13). YouTube. 
+                  p #[strong Enlace web.] Dispositivos de protección: trabajo en alturas. Prevención de riesgos en caídas a distinto nivel. (2019, febrero 13). YouTube. 
 
 
           .col-lg-6(data-aos="fade-left")
@@ -42,11 +42,10 @@
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
-                    p Enlace web. Valora Prevención. (2019, noviembre 11). Correcta utilización de los sistemas anticaídas. YouTube.
-    br
-    br
+                    p #[strong Enlace web.] Valora Prevención. (2019, noviembre 11). Correcta utilización de los sistemas anticaídas. YouTube.
 
-    .row.container.justify-content-around.align-items-center 
+
+    .row.container.justify-content-around.align-items-center.mb-5
 
         h3 Hoja de vida de los equipos
 
@@ -66,20 +65,16 @@
 
 
         
-    br
-    br
-    br
 
-    .row.container.justify-content-around.align-items-center 
+    .row.container.justify-content-around.align-items-center.mb-5
 
-        #arneses
-        .titulo-segundo.color-primario
-          h2 2.1 Arneses
+        .titulo-tercero
+          h3 Arneses
 
-        .row.container
+        .row.container.mb-4
           .col-lg-7
               .cuadro-color-arneses
-              p.txt-cuadro-color-arneses Es necesario recordar que, a pesar de todas las medidas de prevención y protección que la empresa pueda implementar, si usted no hace uso adecuado de los EPP y no cumple con las políticas establecidas en el Plan de Prevención, podrá sufrir accidentes graves que pueden lesionarlo físicamente y causarle graves consecuencias. Se debe tener empatía organizacional: si obtengo un puesto de trabajo y se requiere cumplir con su normativa, debo estar en la condición física y mental de llevarlas a cabo, pues, como se ha mencionado en varias ocasiones en este componente formativo, las lesiones caerán directamente sobre usted como trabajador, dado que es quien está desempeñando las actividades para las cuales fue contratado, no le resta nada usar correctamente los EPP y cumplir con el plan de Prevención con el fin de garantizar la minimización de riesgos laborales. 
+              p.txt-cuadro-color-arneses Una de las tareas iniciales antes de comenzar el trabajo en altura, rescate o espacios confinados, es definir el tipo de arnés que se usará para desempeñar el trabajo, pues se requiere de libertad para moverse, seguridad, durabilidad, funcionalidad y comodidad. Su función es soportar el cuerpo del usuario, mantenerlo unido al punto de anclaje y distribuir uniformemente la fuerza transmitida si se presenta una caída.
           
           .col-lg-5
           
@@ -93,11 +88,11 @@
     br
     br
 
-    .row.container.justify-content-around.align-items-center 
+    .row.container.justify-content-around.align-items-center.mb-5
 
         h3.tipos-de-arnes Tipos de arnés
 
-        .row.fondo-tipos-arnes-tema2.p-4
+        .row.fondo-tipos-arnes-tema2.p-4.mb-5
             .col-lg-6
 
                 figure
@@ -106,21 +101,18 @@
             .col-lg-6
 
                 p El arnés adecuado deberá proteger su vida si se encuentra realizando labores a una altura considerable del suelo, también garantizar que va a cumplir su función. No es lo mismo un arnés para un soldador pues debe soportar las chispas que recibe un arnés para trabajar en altura o para realizar un rescate, también existen arneses certificados.
-                p El arnés deberá adquirirse certificado bajo la Norma ANSI/ASSE Z359.11-2021, recuerde que la Norma ANSI/ASSE Z359.11-2014 fue actualizada y la versión 2021 tuvo aprobación el 18 de marzo de 2021 y comenzó a ser efectiva el 1 de mayo de 2022. 
+                p EEl arnés deberá adquirirse certificado bajo la Norma ANSI/ASSE Z359.11-2021, la Norma ANSI/ASSE Z359.11-2014 fue actualizada y la versión 2021 tuvo aprobación el 18 de marzo de 2021 y comenzó a ser efectiva el 1 de mayo de 2022. 
 
-    br
-    br
-    br
 
-    .row.container.justify-content-around.align-items-center 
 
-        #comandos_de_red
-        .titulo-segundo.color-primario
-          h2 Norma, arnés y eslinga
+    .row.container.justify-content-around.align-items-center.my-5
+
+        .titulo-tercero
+          h3 Norma, arnés y eslinga
         
-        p Para aprender más sobre ANSI/ASSP Z359.11-2021, la norma, arnés y eslinga, le invitamos a revisar los siguientes vídeos.  
+        p Para aprender más sobre ANSI/ASSP Z359.11-2021, la norma, arnés y eslinga, lo invitamos a revisar los siguientes videos. 
 
-        .row 
+        .row.mb-5
           .col-lg-6(data-aos="fade-right")
 
               a.anexo.mb-4.mb-lg-0(href="https://youtu.be/6Iitw5uajUE" target="_blank")
@@ -137,15 +129,12 @@
                 .anexo__texto
                   p Enlace web.  Constructor. (2017, octubre 27). Arnés y eslinga: conozca todo lo que debe saber sobre seguridad industrial. YouTube 
         
-    br
-    br
-    br
 
-    .row.container.justify-content-around.align-items-center 
+    .row.container.justify-content-around.align-items-center.mb-5
     
-        p A continuación, se enuncian los diferentes tipos de arnés que existen.
+        p A continuación, se enuncian los diferentes tipos de arnés que existen:
 
-        TabsC.color-primario
+        TabsC.color-primario.my-4
           
           .py-3.py-md-4(titulo="Arnés multiuso")
             .row
@@ -221,11 +210,9 @@
                     li 
                       i.lista-ul__vineta
                       | Posee puntos de fijación frontales bajos que se utilizan con dispositivos de control de descenso y equipos de acceso con cuerdas.
-    br
-    br
-    br
 
-    .row.container.justify-content-around.align-items-center 
+
+    .row.container.justify-content-around.align-items-center.mb-5
 
         .row.fondo-clases-arnes-tema2.tarjeta.p-4
             .col-lg-5
@@ -235,16 +222,14 @@
             .col-lg-7
                 #comandos_de_red
                 .titulo-segundo.color-primario
-                  h2 Clases de Arnés
+                  h3 Clases de Arnés
 
-                p Si desea aprender más sobre arnés le invitamos a revisar el siguiente material. 3M (s.f.). Arneses anticaídas, seguridad para trabajo en alturas. 
+                p Si desea aprender más sobre arneses lo invitamos a revisar el siguiente material. 3M (s.f.). Arneses anticaídas, seguridad para trabajo en alturas. 
                 
                 a.boton.boton--b(href="https://www.3m.com.es/3M/es_ES/trabajos-altura/arneses-anticaida/#rightharness" target="_blank")
-                  span Ver material
-                  i.fas.fa-puzzle-piece
-    br  
-    br  
-    br
+                  span Ver video 
+                  i.fas.fa-play
+
 
     .row.container.justify-content-around.align-items-center 
         
@@ -259,14 +244,14 @@
                 
                 #comandos_de_red
                 .titulo-segundo.color-primario
-                  h2 Punto de anclaje
+                  h3 Punto de anclaje
 
-                p Para aprender a identificar un punto de anclaje seguro, le invitamos a revisar el siguiente vídeo. 
+                p Para aprender a identificar un punto de anclaje seguro, lo invitamos a revisar el siguiente vídeo.            
                 p Protection, H. F. (2021, junio 9). Aprende a identificar un punto de anclaje seguro. YouTube.
 
                 a.boton.boton--b(href="https://www.youtube.com/watch?v=4R4rW1Lr5cs" target="_blank")
                   span Ver video
-                  i.fas.fa-puzzle-piece
+                  i.fas.fa-play
         
 
 </template>

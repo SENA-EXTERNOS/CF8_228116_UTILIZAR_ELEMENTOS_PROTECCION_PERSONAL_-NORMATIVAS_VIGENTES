@@ -9,7 +9,7 @@
     
     .row.container.justify-content-around.align-items-center
 
-      p A continuación, se menciona la importancia de tener bien demarcada el área de trabajo con las líneas de advertencia. 
+      p A continuación, se menciona la importancia de tener bien demarcada el área de trabajo con las líneas de advertencia:
 
       .row 
 
@@ -31,7 +31,7 @@
                 
                 .col-md-6.mb-4.mb-md-0
                   h4.txt-slider-tema5 Área en peligro
-                  p.txt-slider-tema5 Las líneas de advertencias deben ser utilizadas para advertir peligro a los trabajadores e indicar que después de su paso deberá utilizar sistema de protección de trabajo en alturas. Deben ser colocadas para eliminar riesgos como caídas. Los rótulos, banderines y elementos utilizados para demarcar deberán enfatizar en el peligro inminente de caída.
+                  p.txt-slider-tema5 Las líneas de advertencias deben ser utilizadas para indicar peligro a los trabajadores e informar que para ingresar, deberá utilizar un sistema de protección de trabajo en alturas. Estas deben ser utilizadas para eliminar riesgos como caídas. Los rótulos, banderines y elementos utilizados para demarcar deberán enfatizar el peligro inminente de caída.
 
                 .col-md-6
                   figure
@@ -42,7 +42,7 @@
                 
                 .col-md-6.mb-4.mb-md-0
                   h4.txt-slider-tema5 Marcar zonas seguras
-                  p.txt-slider-tema5 Las líneas de advertencia deberán estar a 3.5 mts de distancia del borde sin protección, así, se elimina el riesgo de caer para los trabajadores. Usted podrá emplear las líneas de advertencia a mayor distancia si lo considera necesario, factores como el clima y hasta la inexperiencia del trabajador aumentan el nivel de riesgo y, por tanto, deberá considerar todas las variables a la hora de marcar las zonas seguras para el trabajo.
+                  p.txt-slider-tema5 Las líneas de advertencia deben estar a 3.5 m  de distancia del borde sin protección, así, se elimina el riesgo de caer para los trabajadores. Se podrán emplear las líneas de advertencia a mayor distancia si se considera necesario, factores como el clima y hasta la inexperiencia del trabajador aumentan el nivel de riesgo, por tanto, deberá considerar todas las variables a la hora de marcar las zonas seguras para el trabajo.
 
                 .col-md-6
                   figure
@@ -98,7 +98,7 @@
                     | Protección contra caídas. 
                   li 
                     i.lista-ul__vineta
-                    | Monitoreo de seguridad
+                    | Monitoreo de seguridad.
                   
                   a.boton.boton--b(:href="obtenerLink('/downloads/Anexo 2. Lineas de advertencia.pdf')" target="_blank")
                     span Descargar

@@ -8,44 +8,39 @@
       h1 Señalización y demarcación del área
 
       
-    .row.container.justify-content-around.align-items-center
+    .row.container.justify-content-around.align-items-center.mb-5
         
         p La señalización y demarcación del área de trabajo es una herramienta de seguridad que permite, a través de la utilización de estímulos visuales o auditivos, condicionar un espacio de trabajo para advertir al trabajador de un posible riesgo. 
 
-        .row(data-aos="fade-left") 
+        .row(data-aos="fade-left").mb-5 
             .col-lg-10.anex-tarj1-tema4
                 a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=UK_EuRWVlAQ" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
                   h4 NTC
-                  p Para conocer un poco más sobre la NTC 1641, le invitamos a revisar el siguiente vídeo. 
-                    br
-                    | VisualGraf, S. A. S. (2020, febrero 16). Normas de Señalización en Colombia NTC 1461, Parte 1. YouTube. 
+                  p Para conocer un poco más sobre la NTC 1641, lo invitamos a revisar el siguiente video.                   
+                  p VisualGraf, S. A. S. (2020, febrero 16). Normas de Señalización en Colombia NTC 1461, Parte 1. YouTube. 
 
-    br
-    br
-    br
 
-    .row.container.justify-content-around.align-items-center
 
-        .row.container.bloque-tarj2-tema4
+    .row.container.justify-content-around.align-items-center.mb-5
+
+        .row.container.bloque-tarj2-tema4.mb-5
             .col-lg-5
               .cuadro-tarj1-color-tema4
-              p.txt-cuadro-tarj1-color-tema4 La norma técnica Colombiana NTC 1641 indica cómo se deben realizar las marcaciones de los espacios según la finalidad. Andamios, tablones, accesorios, etc., deberán cumplirla. Además, indica cómo se deben generar los diseños en las señales implementado colores y formas, todo con el fin de prevenir los accidentes y riesgos.
+              p.txt-cuadro-tarj1-color-tema4 La norma técnica Colombiana NTC 1641 indica cómo se deben realizar las marcaciones de los espacios según la finalidad. Andamios, tablones, accesorios, entre otros, deberán cumplirla. Además, indica cómo se deben generar los diseños en las señales implementado colores y formas, todo con el fin de prevenir los accidentes y riesgos.
               p A continuación se tiene como base la Señalización Según NTC 1461
 
             .col-lg-3
                 figure
                   img(src='@/assets/curso/temas/img1-tema4.png', alt='Texto que describa la imagen').img1-tema4
-    br          
-    br          
-    br
 
-    .row.container.justify-content-around.align-items-center
+
+    .row.container.justify-content-around.align-items-center.mb-5
 
         TabsC.color-primario
-          .py-3.py-md-4(titulo="Condición de Seguridad")
+          .py-3.py-md-4(titulo="Condición de seguridad")
             .row
               .col-md-6.mb-4.mb-md-0
               
@@ -54,78 +49,58 @@
                   //figcaption Leyenda de la imagen
               
               .col-md-6
-                h4 Señales de Condición de Seguridad
+                h4 Señales de condición de seguridad
                 p Forma: rectangular
-                  br
-                  | Color: verde
-                  br
-                  | El color verde cubrirá por lo menos el 50% del área de la señal.
-                  br
-                  | Proporciona información que garantice la seguridad de las personas, indicando salidas de emergencia en caso de requerirse. 
+                p Color: verde
+                p El color verde cubrirá por lo menos el 50% del área de la señal.
+                p Proporciona información que garantice la seguridad de las personas, indicando salidas de emergencia en caso de requerirse. 
             
         
 
-          .py-3.py-md-4(titulo="Fuego y Prohibición")
+          .py-3.py-md-4(titulo="Fuego y prohibición")
             .row
               .col-md-6.mb-4.mb-md-0
                 figure
                   img(src='@/assets/curso/temas/img-fuego-tema4.png', alt='Texto que describa la imagen').img2-pestanas-tema4
-                  //figcaption Leyenda de la imagen
+                  
               .col-md-6
-                h4 Señales de Fuego y Prohibición
+                h4 Señales de fuego y prohibición
                 p Forma: circular - rectangular
-                  br
-                  | Color: rojo
-                  br
-                  br
-                  | El color rojo cubrirá por lo menos el 35% del área de la señal. 
-                  br
-                  br
-                  | Prohíbe un comportamiento que puede generar una situación de peligro. 
+                p Color: rojo
+                p El color rojo cubrirá por lo menos el 35% del área de la señal. 
+                p Prohíbe un comportamiento que puede generar una situación de peligro. 
                 
-          .py-3.py-md-4(titulo="Mando u Obligación")
+          .py-3.py-md-4(titulo="Mando u obligación")
 
             .row
               .col-md-6.mb-4.mb-md-0
                 figure
                   img(src='@/assets/curso/temas/img-senal-mando-tema4.png', alt='Texto que describa la imagen').img-pestanas-tema4
-                  //figcaption Leyenda de la imagen
+
               .col-md-6
-                h4 Señales de Mando u Obligación
+                h4 Señales de mando u obligación
                 p Forma: circular
-                  br
-                  | Color: azul
-                  br
-                  br
-                  | El color azul cubrirá por lo menos el 50% del área de la señal 
-                  br
-                  br
-                  | Señal que indica (obliga) un comportamiento determinado. 
+                p Color: azul
+                p El color azul cubrirá por lo menos el 50% del área de la señal. 
+                p Señal que indica (obliga) un comportamiento determinado. 
           
-          .py-3.py-md-4(titulo="Precaución y Riesgo de Peligro")
+          .py-3.py-md-4(titulo="Precaución y riesgo de peligro")
             .row
               .col-md-6.mb-4.mb-md-0
                 figure
                   img(src='@/assets/curso/temas/img-senal-precau-tema4.png', alt='Texto que describa la imagen').img-pestanas-tema4
-                  //figcaption Leyenda de la imagen
+
               .col-md-6
-                h4 Señales de Precaución y Riesgo de Peligro
-                ul.lista-ul
-                  li 
-                    i.lista-ul__vineta
-                    | Forma: triangular
-                  li 
-                    i.lista-ul__vineta
-                    | Color: amarillo
-                  li 
-                    i.lista-ul__vineta
-                    | El color amarillo cubrirá por lo menos el 50% del área de la señal.
+                h4 Señales de precaución y riesgo de peligro
+                p Forma: triangular
+                p Color: amarillo
+                p El color amarillo cubrirá por lo menos el 50% del área de la señal.
 
-    .row.container.justify-content-around.align-items-center
+    .row.container.justify-content-around.align-items-center.mb-5
 
-        p Por seguridad, planificación, cuidado, almacenamiento y distribución de los espacios, máquinas, equipos, zonas de circulación, etc. deberán ser demarcados. 
+        p Por seguridad, planificación, cuidado, almacenamiento y distribución de los espacios, todas las máquinas, equipos, zonas de circulación, etc., deberán ser demarcados. 
 
-        .row.container
+        .row.container.mb-5
             
             .col-lg-6
 
@@ -146,16 +121,14 @@
                 li 
                   i.lista-ul__vineta
                   | Complemento para otro sistema de seguridad implementado.
+            .hr
 
 
-    br    
-    br    
-    br    
 
     .row.container.justify-content-around.align-items-center
 
         .row 
-          .col-lg-10.bloque-cita-tema4
+          .col-lg-11.bloque-cita-tema4
             .bloque-texto-f.pt-4.px-5.mb-5
               .bloque-texto-f__comillas
                 i.fas.fa-quote-left
@@ -165,7 +138,7 @@
                 |
                 p Todos los establecimientos de trabajo donde se lleven a cabo operaciones y/o procesos que integren aparatos, máquinas, equipos, ductos, tuberías etc. y demás instalaciones locativas necesarias para su funcionamiento” (Resolución 2400 de 1979) deberán “delimitar o demarcar las áreas de trabajo, zonas de almacenamiento, vías de circulación y salidas de emergencia, resguardos y zonas peligrosas de las máquinas e instalaciones de acuerdo a las disposiciones legales vigentes. (Resolución 1016 de 1989, Articulo 11, numeral 17)
   
-    .row.container.justify-content-around.align-items-center
+    .row.container.justify-content-around.align-items-center.mb-5
 
         .row 
           .col-lg-12
@@ -178,14 +151,14 @@
            
           p A continuación, se nombran las zonas que son de peligro y las zonas que indican prohibido parar con su respectivo color que las identifica.               
 
-    br
-    br
-    br
 
-    .row.container.justify-content-around.align-items-center
+
+    .row.container.justify-content-around.align-items-center.mb-5
+
+        h2 Colores de marcación según normativa
 
         TabsC.color-primario
-          .py-3.py-md-4(titulo="Precaución, Zona de Peligro (amarillo)")
+          .py-3.py-md-4(titulo="Precaución, zona de peligro (amarillo)")
             .row
               
               .col-md-6
@@ -194,7 +167,7 @@
                   //figcaption Leyenda de la imagen
 
               .col-md-6.mb-4.mb-md-0
-                h4 Precaución, Zona de Peligro (amarillo)
+                h4 Precaución, zona de peligro (amarillo)
 
                 ul.lista-ul
                   li 
@@ -304,13 +277,11 @@
                     i.lista-ul__vineta
                     | ¡Soportes para materiales (perfiles, platinas, tubería, etc.) Soportes para ejercicios, soportes para cilindros, mangueras de portaelectrodos.
 
-    br
-    br
-    br
 
-    .row.container.justify-content-around.align-items-center
+
+    .row.container.justify-content-around.align-items-center.mb-5
         
-        h2 Colores de marcación según normativa
+        h2 Colores de los indicativos luminosos
 
         p A continuación se describen las señales de acuerdo con su clasificación de colores.
 
@@ -318,15 +289,15 @@
             .col-lg-12
 
                 .titulo-sexto.color-secundario.mb-3
-                  h5 #[strong  Figura 4:]
+                  h5 #[strong  Figura 3:]
                   span <em>Señales y sus colores</em>
                 figure
                   img(src='@/assets/curso/temas/img-col-normativos-tema4.png', alt='Texto que describa la imagen').img-col-normativos-tema4
         
-        .row.carr-tarj-tema4
+        .row.carr-tarj-tema4.mb-5
             .col-lg-12   
         
-                SlyderF(columnas="col-lg-6 col-xl-4")
+                SlyderF(columnas="col-lg-6 col-xl-4").mb-5
 
                   .tarjeta.tarj-col-marca-tema4.p-4
                     .row.justify-content-center.mb-3
@@ -346,7 +317,7 @@
                       br
                       | Caída de tensión. 
                       br
-                      | Presión / Temperatura fuera de límite
+                      | Presión / Temperatura fuera de límite.
 
                   .tarjeta.tarj-col-marca-tema4.p-4
                     .row.justify-content-center.mb-3
@@ -362,19 +333,15 @@
                     h3.text-center Normal (verde)
                     p.text-center Autorización para proceder. Presión / Temperatura dentro de los límites.
 
-    br
-    br
-    br
-    br
-    br
 
-    .row.container.justify-content-around.align-items-center
+
+    .row.container.justify-content-around.align-items-center.mb-5
         
         h2 Identificación de tuberías según Norma ASA
         
         p Las tuberías también deberán ser marcadas según la norma establecida por ASA (American Standards Association) teniendo en cuenta la siguiente clasificación: 
 
-        .tarjeta.tarjeta--azul.p-4
+        .tarjeta.tarjeta--azul.p-4.mb-5
 
             SlyderA(tipo="b")
 
@@ -431,7 +398,7 @@
                 .col-md-6.mb-4.mb-md-0
                   .txt-slider-tema4
                     h4 Color: verde
-                    p Tuberías y ductos para materiales granulados, etc., seguros y para las mangueras de oxígeno en los equipos de soldadura oxiacetilénica.
+                    p Tuberías y ductos para materiales granulados, etc. Seguros y para las mangueras de oxígeno en los equipos de soldadura oxiacetilénica.
 
                 .col-md-6
                   figure
@@ -462,12 +429,9 @@
                   figure
                     img(src='@/assets/curso/temas/img6-slider-tema4.png', alt='Texto que describa la imagen')
                     //figcaption Leyenda de la imagen
-    
-    br
-    br
-    br
 
-    .row.container.justify-content-around.align-items-center
+
+    .row.container.justify-content-around.align-items-center.mb-5
 
         .row.cuadro-color-final-tema4.p-4    
           .col-lg-12
@@ -482,7 +446,7 @@
                   | Corresponde a una salida visible desde cualquier punto de vista en el lugar. 
                 li 
                   i.lista-ul__vineta
-                  | Todos las personas que se encuentran dentro están familiarizados con el edificio. 
+                  | Todas las personas que se encuentran adentro están familiarizados con el edificio. 
 
 
 

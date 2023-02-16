@@ -36,26 +36,6 @@ export default {
         numero: '1',
         titulo: 'Utilizar los elementos de protección personal y colectiva',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Elementos de protección',
-            hash: 'elementos-de-proteccion',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Consideraciones de los EPP',
-            hash: 'consideraciones-de-los-epp',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Principales Elementos de Protección Personal',
-            hash: 'principales-elementos-de-proteccion-personal',
-          },
-        ],
       },
 
       {
@@ -161,7 +141,7 @@ export default {
       tema:
         'Manual sobre las especificaciones técnicas de los EPP y su gestión integral',
       referencia:
-        'Ministerio de Salud y Protección social. (2021). Gestión integral de los Elementos de Protección Personal (EPP). [Documento Soporte] ',
+        'Ministerio de Salud y Protección social. (2021). <i>Gestión integral de los Elementos de Protección Personal (EPP).</i> [Documento Soporte] ',
       tipo: 'Manual',
       link:
         'https://www.minsalud.gov.co/Ministerio/Institucional/Procesos%20y%20procedimientos/GTHS02.pdf',
@@ -170,7 +150,7 @@ export default {
       tema:
         'Ley 1562 de 2012, “Por la cual se modifica el sistema de riesgos laborales y se dictan otras disposiciones en materia de salud ocupacional”.',
       referencia:
-        'Congreso de la República de Colombia (2012). Ley 1562 de 2012, “Por la cual se modifica el sistema de riesgos laborales y se dictan otras disposiciones en materia de salud ocupacional”.',
+        'Congreso de la República de Colombia (2012). <i>Ley 1562 de 2012, “Por la cual se modifica el sistema de riesgos laborales y se dictan otras disposiciones en materia de salud ocupacional”.</i>',
       tipo: 'Ley',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/Ley-1562-de-2012.pdf',
