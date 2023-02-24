@@ -210,103 +210,89 @@ export default {
   referencias: [
     {
       referencia:
-        'Abrego, M., Molinos, R., y Ruiz, P. (s.f.). Equipos de Protección Personal. Sigweb.Cl. ',
+        'Abrego, M., Molinos, R. y Ruiz, P. (s.f.). <i>Equipos de Protección Personal.</i> Sigweb.Cl. ',
       link:
         'http://www.sigweb.cl/wp-content/uploads/biblioteca/ManualEPPAchs.pdf',
     },
     {
       referencia:
-        'American National Standards Institute (2021). ANSI/ASSE Z359.11-2021',
+        'American National Standards Institute. (2021). <i>ANSI/ASSE Z359.11-2021.</i>',
       link: '',
     },
     {
       referencia:
-        'Norma ANSI/ASSE Z359.11-2021, recuerde que la Norma ANSI/ASSE Z359.11-2014 fue actualizada y la versión 2021 tuvo aprobación el 18 de marzo de 2021 y comenzó a ser efectiva el 1 de mayo de 2022.',
+        'Butrón Palacio, E. (2018). <i>Seguridad y salud en el trabajo: 7 pasos para la implementación práctica y efectiva en prevención de riesgos laborales en SG-SST.</i> Ediciones de la U.',
       link: '',
     },
     {
       referencia:
-        'Butrón Palacio, E. (2018). Seguridad y salud en el trabajo: 7 pasos para la implementación práctica y efectiva en prevención de riesgos laborales en SG-SST. Ediciones de la U.',
-      link: '',
+        'Ley 1562 de 2012. Por la cual se modifica el sistema de riesgos laborales y se dictan otras disposiciones en materia de salud ocupacional. Julio 11 de 2012.',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/Ley-1562-de-2012.pdf',
     },
     {
       referencia:
-        'Congreso de la República de Colombia (2012). Ley 1562 de 2012, “Por la cual se modifica el sistema de riesgos laborales y se dictan otras disposiciones en materia de salud ocupacional”. ',
-      link: '',
-    },
-    {
-      referencia:
-        'Constructor (2017, octubre 27). Arnés y eslinga: conozca todo lo que debe saber sobre seguridad industrial | Constructor. YouTube',
+        'Constructor Colombia. (2017). Arnés y eslinga: conozca todo lo que debe saber sobre seguridad industrial | Constructor (video). YouTube.',
       link: 'https://youtu.be/w9n0q5l3daU',
     },
     {
       referencia:
-        'EUSSE Seguridad (2017, octubre 27). ANSI/ASSP Z359.11-2021, ¿Conoces la norma?, sabes de su última actualización. YouTube',
-      link: 'https://youtu.be/w9n0q5l3daU',
-    },
-    {
-      referencia:
-        'Frías., Edison. (2020, octubre 26). Hoja de Vida de los Equipos de Protección Contra Caída. YouTube',
+        'Frías, E. (2020). <i>Hoja de Vida de los Equipos de Protección Contra Caída</i> (video). YouTube. ',
       link: 'https://youtu.be/RqcHMYfhpoI',
     },
     {
       referencia:
-        'Fundación Laboral de la Construcción (2019, febrero 13). Dispositivos de protección: trabajo en alturas. Prevención de riesgos en caídas a distinto nivel. YouTube.',
+        'Fundación Laboral de la Construcción. (2019). <i>Dispositivos de protección: trabajo en alturas. Prevención de riesgos en caídas a distinto nivel</i> (video). YouTube.',
       link: 'https://youtu.be/6Iitw5uajUE',
     },
     {
       referencia:
-        'Gea-Izquierdo, E. (2017). <em>Seguridad y salud en el trabajo.</em>',
+        'Gracia, J., Técnico, M., Marquínez Blanco De Cisa, J., Laboral, P., Moreno, J. & Miangolarra, N. (s.f.). <i>Seguridad en trabajos de altura.</i>',
+      link:
+        'https://www.osalan.euskadi.eus/contenidos/libro/seguridad_200735/es_200735/adjuntos/Trabajos%20en%20altura.pdf',
+    },
+    {
+      referencia:
+        'Gea-Izquierdo, E. (2017). <i>Seguridad y salud en el trabajo.</i>',
       link: '',
     },
     {
       referencia:
-        'Grupo Casa Lima (2022, abril 18). Tipos de EPP (Equipos de Protección Personal). [Documento web] ',
+        'Grupo Casa Lima. (2022). <i>Tipos de EPP (Equipos de Protección Personal).</i>',
       link:
-        'https://grupocasalima.com/es-ec/blog/tipos-de-equipos-de-proteccion-personal-epp/',
+        'https://grupocasalima.com/blog/tipos-de-equipos-de-proteccion-personal-epp/',
     },
     {
       referencia:
-        'Instituto Colombiano de Normas Técnicas y Certificación (2020). <em>NTC 1641. Higiene y Seguridad.<em> Colores y señales de Seguridad.',
+        'Instituto Colombiano de Normas Técnicas y Certificación. (2020).<i> NTC 1641. Higiene y Seguridad. Colores y señales de Seguridad.</i>',
       link:
         'https://www.clinicantioquia.com.co/wp-content/uploads/2020/08/NTC-1461-HIGIENE-Y-SEGURIDAD-COLORES-Y-SENALES-DE-SEGURIDAD1.pdf',
     },
     {
-      referencia: 'Ley 9 de 1979',
-      link: '',
-    },
-    {
-      referencia: 'Ministerio del Trabajo (2019). Resolución 0312. ',
+      referencia:
+        'Resolución 0312 de 2019. (Ministerio del Trabajo). Por la cual se definen los estándares mínimos del Sistema de Gestión y Seguridad en el Trabajo SG-SST. Febrero 13 de 2019.',
       link:
         'https://www.mintrabajo.gov.co/documents/20147/59995826/Resolucion+0312-2019-+Estandares+minimos+del+Sistema+de+la+Seguridad+y+Salud.pdf',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección social. (2021). Gestión integral de los Elementos de Protección Personal (EPP). [Documento Soporte] ',
+        'Ministerio de Salud y Protección Social. (2021). <i>Gestión integral de los Elementos de Protección Personal (EPP).</i>',
       link:
         'https://www.minsalud.gov.co/Ministerio/Institucional/Procesos%20y%20procedimientos/GTHS02.pdf',
     },
     {
-      referencia: 'OSHA Oregon.gov. Retrieved September 26, 2022, from ',
-      link: 'https://osha.oregon.gov/OSHAPubs/factsheets/fs26sp.pdf',
-    },
-    {
       referencia:
-        'Protection, H. F. [HAWK Fall Protection]. (2021, junio 9). Aprende a identificar un punto de anclaje seguro. YouTube.',
+        'Protection, H. F. [HAWK Fall Protection]. (2021). <i>Aprende a identificar un punto de anclaje seguro</i> (video). YouTube. ',
       link: 'https://www.youtube.com/watch?v=4R4rW1Lr5cs',
     },
     {
-      referencia: 'Resolución 2400 de 1979',
-      link: '',
-    },
-    {
       referencia:
-        'Valora Prevención. (2019, noviembre 11). Correcta utilización de los sistemas anticaídas. YouTube.',
+        'Valora Prevención. (2019). <i>Correcta utilización de los sistemas anticaídas</i> (video). YouTube. ',
       link: 'https://youtu.be/dQxXkWUdb7s',
     },
     {
       referencia:
-        'VisualGraf, S. A. S. (2020, febrero 16). Normas de Señalización en Colombia NTC 1461, Parte 1. Youtube.',
+        'VisualGraf, S. A. S. (2020). <i>Normas de Señalización en Colombia NTC 1461, Parte 1</i> (video). YouTube.',
       link: 'https://www.youtube.com/watch?v=UK_EuRWVlAQ',
     },
   ],

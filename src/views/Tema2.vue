@@ -101,7 +101,7 @@
             .col-lg-6
 
                 p El arnés adecuado deberá proteger su vida si se encuentra realizando labores a una altura considerable del suelo, también garantizar que va a cumplir su función. No es lo mismo un arnés para un soldador pues debe soportar las chispas que recibe un arnés para trabajar en altura o para realizar un rescate, también existen arneses certificados.
-                p EEl arnés deberá adquirirse certificado bajo la Norma ANSI/ASSE Z359.11-2021, la Norma ANSI/ASSE Z359.11-2014 fue actualizada y la versión 2021 tuvo aprobación el 18 de marzo de 2021 y comenzó a ser efectiva el 1 de mayo de 2022. 
+                p El arnés deberá adquirirse certificado bajo la Norma ANSI/ASSE Z359.11-2021, la Norma ANSI/ASSE Z359.11-2014 fue actualizada y la versión 2021 tuvo aprobación el 18 de marzo de 2021 y comenzó a ser efectiva el 1 de mayo de 2022. 
 
 
 
@@ -119,7 +119,7 @@
                 .anexo__icono
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto
-                  p Anexo. Consideraciones generales de tratamiento clínico del paciente con COVID-19 en el servicio de urgencias 
+                  p #[strong Enlace web.] Dispositivos de protección: trabajo en alturas. Prevención de riesgos en caídas a distinto nivel. (2019, febrero 13). YouTube. 
 
           .col-lg-6(data-aos="fade-left")
 
@@ -127,7 +127,7 @@
                 .anexo__icono
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto
-                  p Enlace web.  Constructor. (2017, octubre 27). Arnés y eslinga: conozca todo lo que debe saber sobre seguridad industrial. YouTube 
+                  p #[strong Enlace web.]  Constructor. (2017, octubre 27). Arnés y eslinga: conozca todo lo que debe saber sobre seguridad industrial. YouTube 
         
 
     .row.container.justify-content-around.align-items-center.mb-5
@@ -150,10 +150,10 @@
                   ul.lista-ul
                     li 
                       i.lista-ul__vineta
-                      | Incluye varios puntos de fijación
+                      | Incluye varios puntos de fijación.
                     li 
                       i.lista-ul__vineta
-                      | Permite trabajar en diferentes medios
+                      | Permite trabajar en diferentes medios.
               
           
           .py-3.py-md-4(titulo="Arnés para posicionamiento con cinturón")
@@ -227,8 +227,8 @@
                 p Si desea aprender más sobre arneses lo invitamos a revisar el siguiente material. 3M (s.f.). Arneses anticaídas, seguridad para trabajo en alturas. 
                 
                 a.boton.boton--b(href="https://www.3m.com.es/3M/es_ES/trabajos-altura/arneses-anticaida/#rightharness" target="_blank")
-                  span Ver video 
-                  i.fas.fa-play
+                  span link
+                  i.fas.fa-link
 
 
     .row.container.justify-content-around.align-items-center 

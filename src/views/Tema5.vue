@@ -68,7 +68,7 @@
             p.text-white OSHA (2022, septiembre 26) OSHA. Osha.oregon.gov. 
 
         .col-lg-2.boton-anexo-tema1
-            a.boton.boton--b(href="https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/Ley-1562-de-2012.pdf" target="_blank")
+            a.boton.boton--b(href="https://osha.oregon.gov/OSHAPubs/factsheets/fs26sp.pdf" target="_blank")
               span Descargar
               i.fas.fa-puzzle-piece 
     

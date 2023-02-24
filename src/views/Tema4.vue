@@ -30,7 +30,7 @@
             .col-lg-5
               .cuadro-tarj1-color-tema4
               p.txt-cuadro-tarj1-color-tema4 La norma técnica Colombiana NTC 1641 indica cómo se deben realizar las marcaciones de los espacios según la finalidad. Andamios, tablones, accesorios, entre otros, deberán cumplirla. Además, indica cómo se deben generar los diseños en las señales implementado colores y formas, todo con el fin de prevenir los accidentes y riesgos.
-              p A continuación se tiene como base la Señalización Según NTC 1461
+              p A continuación se tiene como base la Señalización Según NTC 1461.s
 
             .col-lg-3
                 figure
@@ -275,7 +275,7 @@
                     | Partes fijas de maquinaria y equipo, parte exterior de guardas y protecciones integrales y adicionales, bancos metálicos, partes metálicas, silletería de taller, prensas de banco y articuladas, gatos portátiles y de carretilla, motores eléctricos que formen parte integral de la maquinaria. 
                   li 
                     i.lista-ul__vineta
-                    | ¡Soportes para materiales (perfiles, platinas, tubería, etc.) Soportes para ejercicios, soportes para cilindros, mangueras de portaelectrodos.
+                    | Soportes para materiales (perfiles, platinas, tubería, etc.) Soportes para ejercicios, soportes para cilindros, mangueras de portaelectrodos.
 
 
 
@@ -339,7 +339,7 @@
         
         h2 Identificación de tuberías según Norma ASA
         
-        p Las tuberías también deberán ser marcadas según la norma establecida por ASA (American Standards Association) teniendo en cuenta la siguiente clasificación: 
+        p Las tuberías también deberán ser marcadas según la norma establecida por ASA #[i (American Standards Association)] teniendo en cuenta la siguiente clasificación: 
 
         .tarjeta.tarjeta--azul.p-4.mb-5
 

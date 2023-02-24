@@ -10,13 +10,11 @@
       
     .row.container.justify-content-around.align-items-center.mb-5
       
-        p Los elementos de protección se deben usar de forma correcta en cada uno de los trabajos para los cuales fueron contratados ya que de lo contrario se pone en riesgo la vida del empleado.
+      p Los elementos de protección se deben usar de forma correcta en cada uno de los trabajos para los cuales fueron contratados ya que de lo contrario se pone en riesgo la vida del empleado.
 
-        .titulo-tercero
-          h3 Elementos de protección
         
-        .row.container
-          .col-lg-7
+        .row.container.my-5
+          .col-lg-7.mt-5
               .cuadro-color-tarj1-tema1
               p.txt-cuadro-color-tarj1-tema1 A través de la utilización de los Elementos de Protección Personal (EPP), se busca proteger la integridad física del trabajador en su actividad laboral, su utilización es obligatoria y el empleador los deberá suministrar a su empleado para evitar accidentes, lesiones, enfermedades laborales, etc.; así, se garantiza cumplir con los protocolos establecidos en el programa de seguridad y salud en el trabajo.
 
@@ -99,16 +97,12 @@
           .col-sm-6.col-lg-4.mb-4.mb-lg-0
             .tarjeta--boton.color-secundario.tarjetas-tema1.p-4
               .row.justify-content-center.mb-3
-                .titulo-sexto.color-secundario.mb-3
-                    h5 Figura 1.
-                    span <em>Elementos de protección personal</em>
-                .col-7
-                  
+                              
+                .col-9.mb-4                
                   figure
                     img(src='@/assets/curso/temas/img1-tarj-tema1.png', alt='Texto que describa la imagen')
 
-              h3.text-center Elementos de protección personal
-              //p.text-small Sed ut perspiciatis unde omnis iste natus error sit vtatem accusa ntium dol.
+                h3.text-center.mb-5 Elementos de protección personal
 
           .col-sm-6.col-lg-4.mb-4.mb-lg-0
             .tarjeta--boton.color-secundario.tarjetas-tema1.p-4
@@ -118,7 +112,7 @@
                     img(src='@/assets/curso/temas/img2-tarj-tema1.png', alt='Texto que describa la imagen')
 
               h3.text-center Acta de entrega
-              p.text-small El empleador debe realizar entrega de los EPP personalmente a su trabajador y, en la medida de lo posible, realizar un acta como constancia. 
+              p El empleador debe realizar entrega de los EPP personalmente a su trabajador y, en la medida de lo posible, realizar un acta como constancia. 
 
           .col-sm-6.col-lg-4.mb-4.mb-sm-0
             .tarjeta--boton.color-secundario.tarjetas-tema1.p-4
@@ -128,7 +122,7 @@
                     img(src='@/assets/curso/temas/img3-tarj-tema1.png', alt='Texto que describa la imagen')
 
               h3.text-center Talla correcta
-              p.text-small Los EPP deben ajustarse a cada trabajador, por ejemplo, en la talla.
+              p Los EPP deben ajustarse a cada trabajador, por ejemplo, en la talla.
 
         .row.fila2-tarjetas-tema1
           .col-sm-6.col-lg-4.mb-4.mb-lg-0
@@ -139,7 +133,7 @@
                     img(src='@/assets/curso/temas/img4-tarj-tema1.png', alt='Texto que describa la imagen')
 
               h3.text-center Reporta mal estado de EPP
-              p.text-small El empleado deberá reportar el mal estado de un EPP y el empleador deberá reemplazarlo. 
+              p El empleado deberá reportar el mal estado de un EPP y el empleador deberá reemplazarlo. 
 
           .col-sm-6.col-lg-4.mb-4.mb-lg-0
             .tarjeta--boton.color-secundario.tarjetas-tema1.p-4
@@ -149,7 +143,7 @@
                     img(src='@/assets/curso/temas/img5-tarj-tema1.png', alt='Texto que describa la imagen')
 
               h3.text-center Estándares de calidad
-              p.text-small Los EPP deberán cumplir los estándares de calidad y las especificaciones técnicas que sean del caso. 
+              p Los EPP deberán cumplir los estándares de calidad y las especificaciones técnicas que sean del caso. 
 
           .col-sm-6.col-lg-4.mb-4.mb-sm-0
             .tarjeta--boton.color-secundario.tarjetas-tema1.p-4
@@ -159,7 +153,7 @@
                     img(src='@/assets/curso/temas/img6-tarj-tema1.png', alt='Texto que describa la imagen')
 
               h3.text-center Buen uso EPP
-              p.text-small El empleado deberá cuidar sus EPP y darles buen uso
+              p El empleado deberá cuidar sus EPP y darles buen uso.
 
         .row.fila3-tarjetas-tema1.mb-5
           .col-sm-6.col-lg-4.mb-4.mb-lg-0
@@ -179,7 +173,7 @@
     .row.container.justify-content-around.align-items-center.my-5
         
         .titulo-tercero
-          h3 Principales Elementos de Protección Personal
+          h3 Principales elementos de protección personal
 
         p A continuación, se mencionan los principales Elementos de Protección Personal que se deben tener en cuenta:
 
@@ -196,7 +190,7 @@
               
               .col-md-6.mb-4.mb-md-0.txt-pestanas1-tema1
                 h4 Calzado correcto
-                p El calzado deberá garantizar la protección y su finalidad depende de la actividad a desempeñar por el trabajador; por ejemplo, existen botas con punta de acero para proteger los dedos ante la posible caída de objetos, botas dieléctricas que aíslan la energía eléctrica, etc. 
+                p El calzado deberá garantizar la protección y su finalidad depende de la actividad a desempeñar por el trabajador; por ejemplo, existen botas con punta de acero para proteger los dedos ante la posible caída de objetos, botas dieléctricas que aíslan la energía eléctrica, etc.
 
                 
           .py-3.py-md-4(titulo="Guantes y cubre brazos")
@@ -218,7 +212,7 @@
                   //figcaption Leyenda de la imagen
               .col-md-6.txt-pestanas1-tema1
                 h4 Cascos
-                p Los cascos son indispensables siempre que el trabajador se encuentre ante la posibilidad de caída de objetos, contacto con elementos químicos, riesgo de caída o toda situación que involucre la cabeza.
+                p Los cascos son indispensables siempre que el trabajador se encuentre ante la posibilidad de caída de objetos, contacto con elementos químicos, riesgo de caída o toda situación que involucre la cabeza. 
 
           
           .py-3.py-md-4(titulo="Gafas o caretas")
@@ -240,7 +234,7 @@
                   //figcaption Leyenda de la imagen
               .col-md-6.txt-pestanas1-tema1
                 h4 Protección respiratoria
-                p Protección respiratoria a través de mascarillas, con el fin de evitar vapores, humos, químicos volátiles, residuos biológicos, etc. Se requieren tapabocas o mascarillas que cubran las vías respiratorias con filtros de acuerdo con el riesgo de exposición al que será sometido el trabajador
+                p Protección respiratoria a través de mascarillas, con el fin de evitar vapores, humos, químicos volátiles, residuos biológicos, etc. Se requieren tapabocas o mascarillas que cubran las vías respiratorias con filtros de acuerdo con el riesgo de exposición al que será sometido el trabajador.
 
           .py-3.py-md-4(titulo="Protección cuerpo")
             .row
@@ -261,7 +255,7 @@
                   //figcaption Leyenda de la imagen
               .col-md-6.txt-pestanas1-tema1
                 h4 Protección auditiva
-                p Se deben usar elementos de protección auditiva si se encuentra expuesto a ruidos, dependiendo del nivel de exposición se podrá usar un tapón o un protector completo de orejas.
+                p Se deben usar elementos de protección auditiva si se encuentra expuesto a ruidos, dependiendo del nivel de exposición se podrá usar un tapón o un protector completo de orejas. 
 
 
           .py-3.py-md-4(titulo="Arnés ")
@@ -309,8 +303,6 @@
     .row.container.justify-content-around.align-items-center.my-5
 
         .tarjeta.fondo-linea-tiempo-tema1.p-4.mb-5
-
-          p Es muy importante poder reconocer los EPP y la dotación, a continuación se les indicará cómo poder diferenciarlos.
 
           LineaTiempoC.color-acento-contenido(text-small)
 
@@ -455,9 +447,6 @@
                         | Ley 1150/2007
                       li 
                         i.lista-ul__vineta
-                        | Decreto 2090 de 2003
-                      li 
-                        i.lista-ul__vineta
                         | Resolución 2013/1986 
 
                 .row(titulo="Matriz legal")
@@ -526,13 +515,13 @@
                   li 
                     span.text-bold 4.
                     | Prácticas.
-                    li 
+                  li 
                     span.text-bold 5.
                     | Procedimientos.
-                    li 
+                  li 
                     span.text-bold 6.
                     | Procesos.
-                    li 
+                  li 
                     span.text-bold 7.
                     | Recursos necesarios.
                 
@@ -631,7 +620,7 @@
 
     .row.container.justify-content-around.align-items-center.mb-5
         
-        h3  EVALUACIÓN DE RIESGOS
+        h3 Evaluación de riesgos
         
         p La aplicación del plan de acción requiere de dos instrumentos fundamentales que son: la Evaluación de Riesgos Laborales y la Planificación de la Actividad Preventiva, ambos permitirán poner en marcha el plan de acción y garantizar su funcionamiento dentro de la organización. 
 

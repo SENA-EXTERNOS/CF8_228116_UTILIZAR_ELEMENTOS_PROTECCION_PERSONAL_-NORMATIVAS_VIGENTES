@@ -17,7 +17,7 @@
             img(src="@/assets/curso/temas/img-actividad.png", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-primario
-          h2 Completar Espacios
+          h2 Utilizar elementos de protección personal según normativas vigentes
         p.mb-4 A continuación, se realizan unas preguntas sobre el tema visto de los elementos de protección personal, marco legal y arnés.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
