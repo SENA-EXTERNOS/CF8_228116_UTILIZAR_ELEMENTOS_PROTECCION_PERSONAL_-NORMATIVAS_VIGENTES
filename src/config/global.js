@@ -259,8 +259,7 @@ export default {
     {
       referencia:
         'Grupo Casa Lima. (2022). <i>Tipos de EPP (Equipos de Protección Personal).</i>',
-      link:
-        'https://grupocasalima.com/blog/tipos-de-equipos-de-proteccion-personal-epp/',
+      link: '',
     },
     {
       referencia:

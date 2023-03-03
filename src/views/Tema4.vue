@@ -30,7 +30,7 @@
             .col-lg-5
               .cuadro-tarj1-color-tema4
               p.txt-cuadro-tarj1-color-tema4 La norma técnica Colombiana NTC 1641 indica cómo se deben realizar las marcaciones de los espacios según la finalidad. Andamios, tablones, accesorios, entre otros, deberán cumplirla. Además, indica cómo se deben generar los diseños en las señales implementado colores y formas, todo con el fin de prevenir los accidentes y riesgos.
-              p A continuación se tiene como base la Señalización Según NTC 1461.s
+              p A continuación se tiene como base la Señalización Según NTC 1461.
 
             .col-lg-3
                 figure
@@ -349,7 +349,7 @@
                 .col-md-6.mb-4.mb-md-0
                   .txt-slider-tema4
                     h4 Color: naranja
-                    p Tuberías sin aislar que conduzcan vapor a cualquier temperatura, tuberías que conduzcan ACPM, fueloil, gasolina, petróleo, combustible en general, tuberías de escape de gases de combustión, cilindros de tuberías de acetileno, tubería que conduzca gas carbónico. 
+                    p Tuberías sin aislar que conduzcan vapor a cualquier temperatura, tuberías que conduzcan ACPM, #[I fueloil], gasolina, petróleo, combustible en general, tuberías de escape de gases de combustión, cilindros de tuberías de acetileno, tubería que conduzca gas carbónico. 
                 
                 .col-md-6
                   figure

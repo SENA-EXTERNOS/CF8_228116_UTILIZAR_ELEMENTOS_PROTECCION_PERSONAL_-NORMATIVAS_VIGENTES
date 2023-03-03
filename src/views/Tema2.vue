@@ -115,15 +115,15 @@
         .row.mb-5
           .col-lg-6(data-aos="fade-right")
 
-              a.anexo.mb-4.mb-lg-0(href="https://youtu.be/6Iitw5uajUE" target="_blank")
+              a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=XqmEf4nzTO4" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto
-                  p #[strong Enlace web.] Dispositivos de protección: trabajo en alturas. Prevención de riesgos en caídas a distinto nivel. (2019, febrero 13). YouTube. 
+                  p #[strong Enlace web.]  EUSSE Seguridad, ANSI/ASSP Z359.11-2021. (2017, octubre 27). ¿Conoces la norma?, sabes de su última actualización. 
 
           .col-lg-6(data-aos="fade-left")
 
-              a.anexo.mb-4.mb-lg-0(href="https://youtu.be/dQxXkWUdb7s" target="_blank")
+              a.anexo.mb-4.mb-lg-0(href="https://youtu.be/w9n0q5l3daU" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto
