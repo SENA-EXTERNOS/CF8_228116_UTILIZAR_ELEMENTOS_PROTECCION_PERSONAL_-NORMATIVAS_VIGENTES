@@ -13,7 +13,7 @@
 
       .row 
 
-        .tarjeta.fondo-slider-tema5.p-4
+        .tarjeta.p-4(style="background-color: #e3f7fa")
             SlyderA(tipo="b")
               .row.justify-content-center.align-items-center.my-lg-4
                 .col-md-6.mb-4.mb-md-0
@@ -23,9 +23,8 @@
 
                 .col-md-6
                   figure
-                    img(src='@/assets/curso/temas/img1-slider-tema5.png', alt='Texto que describa la imagen').img-slider-tema5
-                  p.txt-notas-slider-tema5 Nota:https://obraconseguridad.files.wordpress.com/2015/03/20141110_102231.jpg
-                    //figcaption Leyenda de la imagen
+                    img(src='@/assets/curso/temas/img1-slider-tema5.png', alt='Texto que describa la imagen').mb-2
+                    figcaption  Nota:https://obraconseguridad.files.wordpress.#[br]com/2015/03/20141110_102231.jpg
 
               .row.justify-content-center.align-items-center.my-lg-4
                 
@@ -46,8 +45,8 @@
 
                 .col-md-6
                   figure
-                    img(src='@/assets/curso/temas/img3-slider-tema5.png', alt='Texto que describa la imagen').img-slider-tema5
-                  p.txt-notas-slider-tema5 Nota:https://i.ytimg.com/vi/qJa5iy5sW_s/maxresdefault.jpg
+                    img(src='@/assets/curso/temas/img3-slider-tema5.png', alt='Texto que describa la imagen').mb-2
+                    figcaption Nota:https://i.ytimg.com/vi/qJa5iy5sW_s/maxresdefault.jpg
                     //figcaption Leyenda de la imagen
 
     br             
@@ -100,7 +99,7 @@
                     i.lista-ul__vineta
                     | Monitoreo de seguridad.
                   
-                  a.boton.boton--b(:href="obtenerLink('/downloads/Anexo 2. Lineas de advertencia.pdf')" target="_blank")
+                  a.boton.boton--b(:href="obtenerLink('/downloads/anexo2.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-puzzle-piece
 
@@ -140,4 +139,8 @@ export default {
 }
 </script>
 
-<style lang="sass"></style>
+<style lang="sass">
+
+figcaption
+  overflow-wrap: anywhere
+</style>
