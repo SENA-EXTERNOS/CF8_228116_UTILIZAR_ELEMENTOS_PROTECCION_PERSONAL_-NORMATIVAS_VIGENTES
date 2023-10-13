@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="181.986" height="70.842" viewBox="0 0 181.986 70.842">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.146" stop-color="#fff" stop-opacity="0.012"/>
+      <stop offset="0.274" stop-color="#fff" stop-opacity="0.055"/>
+      <stop offset="0.395" stop-color="#fff" stop-opacity="0.125"/>
+      <stop offset="0.512" stop-color="#fff" stop-opacity="0.224"/>
+      <stop offset="0.626" stop-color="#fff" stop-opacity="0.353"/>
+      <stop offset="0.738" stop-color="#fff" stop-opacity="0.51"/>
+      <stop offset="0.848" stop-color="#fff" stop-opacity="0.698"/>
+      <stop offset="0.954" stop-color="#fff" stop-opacity="0.906"/>
+      <stop offset="0.996" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_109584" data-name="Grupo 109584" transform="translate(-549.333 -398.449)">
+    <path id="Trazado_117759" data-name="Trazado 117759" d="M0,42Z" transform="translate(549.333 422)" fill="url(#linear-gradient)" style="mix-blend-mode: overlay;isolation: isolate"/>
+    <g id="Grupo_109510" data-name="Grupo 109510">
+      <g id="Grupo_109508" data-name="Grupo 109508" opacity="0.36" style="mix-blend-mode: overlay;isolation: isolate">
+        <path id="Trazado_117578" data-name="Trazado 117578" d="M717.125,402.59v-4.14l14.194,6.506v4.14Z" fill="#00feff"/>
+        <path id="Trazado_117579" data-name="Trazado 117579" d="M717.125,409.539V405.4l14.194,6.506v4.14Z" fill="#00feff"/>
+        <path id="Trazado_117580" data-name="Trazado 117580" d="M717.125,416.488v-4.14l14.194,6.506v4.14Z" fill="#00feff"/>
+        <path id="Trazado_117581" data-name="Trazado 117581" d="M717.125,423.438V419.3l14.194,6.506v4.14Z" fill="#00feff"/>
+        <path id="Trazado_117582" data-name="Trazado 117582" d="M717.125,430.387v-4.14l14.194,6.506v4.14Z" fill="#00feff"/>
+        <path id="Trazado_117583" data-name="Trazado 117583" d="M717.125,437.336V433.2l14.194,6.506v4.14Z" fill="#00feff"/>
+        <path id="Trazado_117584" data-name="Trazado 117584" d="M717.125,444.286v-4.14l14.194,6.506v4.14Z" fill="#00feff"/>
+      </g>
+      <g id="Grupo_109509" data-name="Grupo 109509">
+        <path id="Trazado_117585" data-name="Trazado 117585" d="M714.125,421.09v-4.14l14.194,6.506v4.14Z" fill="#00feff"/>
+        <path id="Trazado_117586" data-name="Trazado 117586" d="M714.125,428.039V423.9l14.194,6.506v4.14Z" fill="#00feff"/>
+        <path id="Trazado_117587" data-name="Trazado 117587" d="M714.125,434.988v-4.14l14.194,6.506v4.14Z" fill="#00feff"/>
+        <path id="Trazado_117588" data-name="Trazado 117588" d="M714.125,441.938V437.8l14.194,6.506v4.14Z" fill="#00feff"/>
+        <path id="Trazado_117589" data-name="Trazado 117589" d="M714.125,448.887v-4.14l14.194,6.506v4.14Z" fill="#00feff"/>
+        <path id="Trazado_117590" data-name="Trazado 117590" d="M714.125,455.836V451.7l14.194,6.506v4.14Z" fill="#00feff"/>
+        <path id="Trazado_117591" data-name="Trazado 117591" d="M714.125,462.786v-4.14l14.194,6.506v4.14Z" fill="#00feff"/>
+      </g>
+    </g>
+  </g>
+</svg>
