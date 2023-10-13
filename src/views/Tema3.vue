@@ -49,7 +49,7 @@
 
 
           .col-lg-2.boton-anexo-tema1
-              a.boton.boton--b(:href="obtenerLink('/downloads/anexo1 Tipos de líneas de vida.pdf')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/downloads/anexo1.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-puzzle-piece 
 

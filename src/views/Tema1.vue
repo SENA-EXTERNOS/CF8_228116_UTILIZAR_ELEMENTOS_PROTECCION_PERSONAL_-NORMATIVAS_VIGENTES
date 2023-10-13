@@ -614,7 +614,7 @@
       
             .tarjeta.tarj-pto-caliente-tema1.p-3(x="92%" y="80%" numero="5")
               .h5.mb-2 Política organizacional
-              p Políticas y metas trazadas en función del cumplimiento de la prevención de riesgos laborales, se deben incluir los recursos humanos, técnicos y materiales y económicos que se tendrán a disposición en el programa de prevención de riesgos.            
+              p Políticas y metas trazadas en función del cumplimiento de la prevención de riesgos laborales, se deben incluir los recursos humanos, técnicos, materiales y económicos que se tendrán a disposición en el programa de prevención de riesgos.            
 
 
 

@@ -81,7 +81,7 @@
               figure
                   img(src='@/assets/curso/temas/img-arneses-tema2.png', alt='Texto que describa la imagen').img-arneses-tema2
         
-        p A continuación se detalla la normativa para el uso de los diferentes tipos de arnés:
+        p A continuación, se detalla la normativa para el uso de los diferentes tipos de arnés:
         
     br
     br
